@@ -1,0 +1,6 @@
+{
+  "name": "Bounter Jam // limbicOS",
+  "description": "The Creator Jam & Vibe Coding Board with 90-minute ultradian rhythm scheduling, locked escrow, and objective DoD verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
